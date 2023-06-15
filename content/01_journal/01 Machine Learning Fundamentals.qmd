@@ -1,6 +1,6 @@
 ---
 title: "01 Machine Learning Fundamentals"
-author: "Prajwal Kumar,Koretagere Vijay Kumar"
+author: "Mitali Kulam"
 date: "2023-05-15"
 output: 
     html_document:
