@@ -1,0 +1,24 @@
+---
+title: "04 Automated Machine Learning with H20-2"
+author: "Prajwal Kumar,Koretagere Vijay Kumar"
+date: "2023-05-15"
+
+---
+# Task
+
+For the challenge, we shall be working with a Product Backorders dataset. The goal here is to predict whether or not a product will be put on backorder status, given a number of product metrics such as current inventory, transit time, demand forecasts and prior sales. It’s a classic Binary Classification problem. 
+
+Steps:
+
+* Load the training & test dataset
+* Specifiy the response and predictor variables
+* run AutoML specifying the stopping criterion
+* View the leaderboard
+* Predicting using Leader Model
+* Save the leader model
+
+---
+
+::: callout-note
+You can delete everything in here and start fresh.
+:::
